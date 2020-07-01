@@ -446,43 +446,25 @@
 
             "quantumslabofproc-description":"以前沒有人知道古代一族是如何生產網絡帶寬的。但是如今您知悉了這種技術，不如將其更上一層樓，把他們的技術運用在這塊量子處理石板上呢？",
 
-            "quantumwetcone-description":"
+            "quantumwetcone-description":"為您程現，潮濕之錐技術的奧義！只要有量子潮濕之錐，不論有多少口渴的蟲族都能滿足！",
 
-Representing the ultimate in Wet Cone technology, for when you have a LOT of thirsty Insectoids to take care of.",
+            "quantumcirfoundry-description":"使用古代異星科技的量子電路鑄造廠能夠以超乎常蟲的速度生產晶片。",
 
-            "quantumcirfoundry-description":"
+            "new-city-dest":            "選擇新城市的落成位置。",
 
-Utilize ancient alien tech to crank out Microchips at a much faster rate.",
+            "unholygoldgrower-description":"將原礦和褐蟻合金放進這台邪惡黃金生長儀，並注入安特拉之力與水晶，能生成出大量的黃金。",
 
-            "new-city-dest":            "
+            "crystalgenerationchamber-description":"水晶生成室是一座高科技設施。使用大量的石油、糖、蟻糊質和鈾，並在充滿能量的環境下混和，即可生產又熱又新鮮(不是麵包！）的水晶。",
 
-Select new city build site",
+            "toweroftruth-description": "真理之塔向眾愚傳授‘真理’，為他們帶來娛樂(其實是引開注意)，並從過程中產出公民值。",
 
-            "unholygoldgrower-description":"
+            "antaniumblastfurnace-description":"這座以黑曜石作為強化物料的合金高爐能讓您的褐蟻合金產量翻倍！"
 
-Using the unholy power of Antaura and Crystalline, convert Ore and Antanium into Gold.",
-
-            "crystalgenerationchamber-description":"
-
-This advanced mound facility takes massive amounts of Oil, Sugar, Ant Paste, and some Uranium, mixed with large amounts of Power, to create Crystalline.",
-
-            "toweroftruth-description": "
-
-Spread 'truth' to the people, keeping them entertained (distracted) and generating some civics to go along with it.",
-
-            "antaniumblastfurnace-description":"
-
-This giant furnace hardened with Obsidian will pump amount mass amounts of Antanium!"
-
-            "etherreactor-description": "
-
-If you can get your hands on some Ether, you can generate large amounts of Power in a relatively small space."
+            "etherreactor-description": "當您擁有一些乙太，您可以利用乙太反應爐在狹窄的地方製造大量電力！"
 
             "designatedswimarea-description":"很簡單，這只是一個讓蟲族能不用擔心游泳時被海蛙吃掉的游泳區，在這裡游泳是絕對安全，絕對放鬆的。",
 
-            "regobug-description":      "
-
-A hardy bug who loves to mine and collect Regolith!",
+            "regobug-description":      "一隻愛挖灰壤，很幫得上忙的灰土蟲。",
 
             "regolithincinerator-description":"
 
@@ -496,4 +478,4 @@ tales, but you can build your own Pot of Ether with a bit of Gold and some Ore a
 
             "etherbug-description":     "乙太蟲(Etherbug)是世界上唯一一種不會因進食乙太而即時死亡的蟲族。因此，這家伙從此以後就被強迫冒著生命危險為殖民地收集乙太......"
 
-            "rawfishdiner-description": "生魚餐廳是半蜥人和星際遊客感到無聊時其中一個最熱門的聚會場所之一。一邊品嚐生魚和朗姆酒，一邊享受WiFi吧！",
+            "rawfishdiner-description": "生魚餐廳是半蜥人和星際遊客感到無聊時其中一個最熱門的聚會場所之一。一邊品嚐生魚刺身和朗姆酒，一邊享受WiFi吧！",
