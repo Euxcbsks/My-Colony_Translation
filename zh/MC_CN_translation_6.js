@@ -30,19 +30,19 @@
 
             "river-template-desc":      "This map type includes both land and river tiles.  Do you want the system to generate the river terrain for you, or would up like to import a template image?  A template image is a 250x250px black and white image (suggested), with white representing land and black representing river tiles.",
 
-            "river-template-auto":      "Automatic",
+            "river-template-auto":      "自動化的",
 
-            "river-template-image":     "Image File",
+            "river-template-image":     "圖片檔",
 
-            "unexplored-territory":     "Unexplored Territory",
+            "unexplored-territory":     "未探索的領域",
 
-            "mail-not-available":       "No Longer Available",
+            "mail-not-available":       "不再支援",
 
-            "mail-not-available-info":  "The message you selected is no longer available on the server.",
+            "mail-not-available-info":  "伺服器不再支援你所選取的訊息",
 
-            "save-switch-city-ask":     "Do you want to switch to city: ",
+            "save-switch-city-ask":     "你是否想切換至城市： ",
 
-            "gen-switch":               "Switch",
+            "gen-switch":               "切換",
 
             "etherrover-description":   "A basic rover built for collecting and transporting Ether.",
 
@@ -50,61 +50,61 @@
 
             "gen-utilities":            "Utilities",
 
-            "select-disp-mode":         "Select Display Mode",
+            "select-disp-mode":         "選擇顯示模式",
 
-            "gen-default":              "Default",
+            "gen-default":              "預設值",
 
-            "disp-trans":               "Semi-Transparent",
+            "disp-trans":               "半透明的",
 
             "disp-bld-colors":          "Building Colors Only",
 
-            "disp-ent-coverage":        "Entertainment Coverage Heatmap",
+            "disp-ent-coverage":        "娛樂覆蓋率熱度圖",
 
-            "disp-med-coverage":        "Medical Coverage Heatmap",
+            "disp-med-coverage":        "醫療覆蓋率熱度圖",
 
-            "disp-edu-coverage":        "Education Coverage Heatmap",
+            "disp-edu-coverage":        "教育覆蓋率熱度圖",
 
-            "disp-cri-coverage":        "Crime Heatmap",
+            "disp-cri-coverage":        "犯罪率熱度圖",
 
-            "disp-lnv-coverage":        "Land Value Heatmap",
+            "disp-lnv-coverage":        "地價熱度圖",
 
-            "intclinic-description":    "A more advanced small clinic, using AI and network technology to get patients in and out in just a few hours!",
+            "intclinic-description":    "應用AI及網路科技的先進小診所，患者在幾個小時之內就能完成診療！",
 
-            "gen-tot-births":           "總累積出生人口",
+            "gen-tot-births":           "累積出生人口總數",
 
             "gen-age-distro":           "人口年齡長條圖",
 
-            "prod-cap-heatmap":         "Production Capacity Heatmap",
+            "prod-cap-heatmap":         "生產力熱度圖",
 
-            "total-play-time":          "遊玩的總時間",
+            "total-play-time":          "累積遊玩時間",
 
             "colony-age":               "殖民地的壽命 (遊戲的時間)",
 
-            "gen-prop-value":           "Property Valuation",
+            "gen-prop-value":           "貧窮度",
 
             "gen-overall-value":        "Overall Value",
 
-            "gen-entertainment-avail":  "Entertainment Access",
+            "gen-entertainment-avail":  "娛樂充足度",
 
-            "gen-education-avail":      "Education Access",
+            "gen-education-avail":      "教育觸及率",
 
-            "gen-medical-avail":        "Medical Access",
+            "gen-medical-avail":        "醫療照護率",
 
             "gen-building-condition":   "Structural Condition",
 
-            "gen-factors":              "Factors",
+            "gen-factors":              "因素",
 
-            "gen-commute-rating":       "Daily Commute Rating",
+            "gen-commute-rating":       "通勤方便度",
 
-            "gen-safety-rating":        "Safety Rating",
+            "gen-safety-rating":        "居住安全度",
 
             "gen-accessability-rating": "Accessability Rating",
 
-            "gen-workforce-rating":     "Workforce Rating",
+            "gen-workforce-rating":     "勞動率",
 
-            "health-crisis-warning":    "There is an ongoing health crisis in #cityname.  Will #governorname do anything about it?",
+            "health-crisis-warning":    "#cityname 正面臨一場醫療資源缺乏危機。#governorname 願意出手干預嗎？",
 
-            "gen-city-leader-name":     "The Governor",
+            "gen-city-leader-name":     "總督",
 
             "hospital-description":     "When you need to heal a lot of sick colonists, you need a hospital!  Take care of the sick and elderly, and charge up to $500 per asprin on their way out!",
 
@@ -112,9 +112,9 @@
 
             "pasteclinic-description":  "In this state of the art clinic, a refined Ant Paste mixture is injected into the blood of the patient, somehow causing health.",
 
-            "deport-elderly":           "Deport the Elderly",
+            "deport-elderly":           "驅逐年長者",
 
-            "deport-elderly-desc":      "Kick anybody over the age of 65 out of #cityname.  They can go and enjoy their golden years somewhere else!",
+            "deport-elderly-desc":      "將任何超過65歲的人從 #cityname 中驅逐。他們可以在別的地方安享晚年!",
 
             "generating-terrain":       "Generating Terrain",
 
@@ -126,7 +126,7 @@
 
             "transclinic-description":  "A small medical clinic run entirely by software and robots.",
 
-            "production-priority":      "Production Priority",
+            "production-priority":      "生產優先度",
 
             "production-priority-info": "When all other factors are equal, structures with a higher Production Priority will get new workers first.",
 
@@ -198,7 +198,7 @@
 
             "backup-copy":              "備份",
 
-            "backup-copy-desc":         "創建一個備份讓你的遊戲進度可以安全保存，來避免你的殖民地資料遺失或是儲存錯誤。",
+            "backup-copy-desc":         "備份以安全保存你目前的遊戲進度，好避免你的殖民地資料遺失或是儲存錯誤。",
 
             "backup-region-notice":     "Be advised that backing up an entire region may take a few minutes depending on the size of the region and it's cities.  Please do not close out of My Colony until the backup has completed.",
 
@@ -206,7 +206,7 @@
 
             "regbussing-description":   "Load up colonists from one city and transport them to neighboring cities in your region.  Allows your citizens to live and work in different cities, and even immigrate between cities in the region.",
 
-            "regbus-description":       "A hard working bus that brings hard working colonists from one city to the next!",
+            "regbus-description":       "載運勤奮的工作者們在城市間移動的公車!",
 
             "publictrans-desc":         "Research and unlock the logistics involved in moving colonists efficiently around the colony.",
 
