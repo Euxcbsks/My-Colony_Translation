@@ -6,7 +6,7 @@
 
             "dracarus-description":     "The Dracarus Mint is where Draconian gold coins are minted.  Although they are guaranteed by the Reptilians to be .999 fine Gold, they are actually made mostly of Ore.",
 
-            "diamondextractor-description":"A handy drone that can extract raw Diamonds from the ground."
+            "diamondextractor-description":"能挖掘鑽石原礦的小型無人機。"
 
             "basiccrystalfurnace-description":"Just a cheap low-yield reactor for when you are desperate for power and low on resources.",
 
@@ -80,7 +80,7 @@
 
             "colony-age":               "殖民地的壽命 (遊戲的時間)",
 
-            "gen-prop-value":           "貧窮度",
+            "gen-prop-value":           "資產總值",
 
             "gen-overall-value":        "Overall Value",
 
@@ -90,7 +90,7 @@
 
             "gen-medical-avail":        "醫療照護率",
 
-            "gen-building-condition":   "Structural Condition",
+            "gen-building-condition":   "建築物概況",
 
             "gen-factors":              "因素",
 
@@ -138,7 +138,7 @@
 
             "smsecurity-description":   "Provides basic security service and a few jail cells for a small colony.",
 
-            "secstation-description":   "A standard sized security station, providing peace of mind and an area of protection.",
+            "secstation-description":   "一個標準規模的保全站(security station), 肩負著維護區域安全及和平的任務。",
 
             "secprecincthq-description":"This large security facility can hold a lot of criminals, keeping the streets save for little bobby and little susie.",
 
@@ -152,7 +152,7 @@
 
             "colonist-rendering-desc":  "Set the maximum number of colonists you will allow the game to render at one time.  The larger the count, the larger the performance impact.",
 
-            "pub2-description":         "This upgraded Pub will serve even more guests as well as tourists, providing not only drinks, but also Food and free WiFi!",
+            "pub2-description":         "升級版的 酒吧(Pub) 除了能服務更多人和提供飲料之外，還提供優質的食物跟你各位最愛的WiFi!",
 
             "nanotech-desc":            "Once you're done building giant things, grab your microscope and do a complete 180 by building things as tiny as possible using Advanced Nanotechnology!",
 
@@ -168,9 +168,9 @@
 
             "keyboard-payroll":         "Show Payroll Policies",
 
-            "love-gov-day":             "The people of #cityname have declared today to be 'We Love #governorname Day'!",
+            "love-gov-day":             "#cityname 的人們決定把今天叫做'We Love #governorname Day'!",
 
-            "love-gov-day-2":           "More parents in #cityname are choosing to name their children after #governorname."
+            "love-gov-day-2":           "#cityname 的父母們現在流行把他們的小孩取名叫做 #governorname."
 
             "patentoffice-description": "Every day, reptilian businessmen are coming up with new ideas, and your government needs to be there to grab a piece of the pie!  Generates civics while stealing money and research from businesses.",
 
@@ -204,13 +204,13 @@
 
             "gen-begin":                "開始",
 
-            "regbussing-description":   "Load up colonists from one city and transport them to neighboring cities in your region.  Allows your citizens to live and work in different cities, and even immigrate between cities in the region.",
+            "regbussing-description":   "載運殖民者們在區域內的城市間移動。你的市民們將能在區域內的不同城市間生活及工作，甚至是搬到其他城市。",
 
             "regbus-description":       "載運勤奮的工作者們在城市間移動的公車!",
 
             "publictrans-desc":         "Research and unlock the logistics involved in moving colonists efficiently around the colony.",
 
-            "gen-last-save":            "最近一次儲存",
+            "gen-last-save":            "最近一次儲存"
 
             "gen-stat":                 "名稱",
 
