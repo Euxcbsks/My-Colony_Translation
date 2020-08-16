@@ -210,7 +210,7 @@
 
             "publictrans-desc":         "Research and unlock the logistics involved in moving colonists efficiently around the colony.",
 
-            "gen-last-save":            "最近一次儲存"
+            "gen-last-save":            "最近一次儲存",
 
             "gen-stat":                 "名稱",
 
