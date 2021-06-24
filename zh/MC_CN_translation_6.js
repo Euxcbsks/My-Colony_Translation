@@ -1,8 +1,8 @@
-            "deepdrilling-description": "An offshore platform for extracting pure Crude Oil from the depths of the sea!",
+            "deepdrilling-description": "一座用於從深海開採石油的深海鑽油台。",
 
-            "coralradiator-description":"This small platform exposes naturally forming sea coral with extreme doses of radiation, breaking it down into trace amounts of Ore, Gold, and Aluminum.",
+            "coralradiator-description":"這小小一台珊瑚幅射礦機能透過向天然珊瑚發射特大劑量的幅射，將珊瑚轉變為小量例如原礦、黃金及鋁的各式礦物。",
 
-            "offshoreslum-description": "In an ongoing effort to combat the issue of extreme Reptilian homelessness, throw an old rusted out Galactic Freight container off shore and resettle the homeless there, so you do not have to worry about the issue of extreme Reptilian homelessness.",
+            "offshoreslum-description": "住房嚴重不足？只要將一個又舊又生鏽的貨櫃丟到海上，就可以當成另類海上貧民窟供人居住嘍！有了這個住房問題還是一回事嗎？",
 
             "dracarus-description":     "The Dracarus Mint is where Draconian gold coins are minted.  Although they are guaranteed by the Reptilians to be .999 fine Gold, they are actually made mostly of Ore.",
 
@@ -82,7 +82,7 @@
 
             "gen-prop-value":           "資產總值",
 
-            "gen-overall-value":        "Overall Value",
+            "gen-overall-value":        "整體評級",
 
             "gen-entertainment-avail":  "娛樂充足度",
 
@@ -98,7 +98,7 @@
 
             "gen-safety-rating":        "居住安全度",
 
-            "gen-accessability-rating": "Accessability Rating",
+            "gen-accessability-rating": "建築可及性",
 
             "gen-workforce-rating":     "勞動率",
 
@@ -130,7 +130,7 @@
 
             "production-priority-info": "When all other factors are equal, structures with a higher Production Priority will get new workers first.",
 
-            "employment-capacity":      "Employment Capacity",
+            "employment-capacity":      "員工上限",
 
             "employment-capacity-info": "Normally you would run your buildings at full capacity, but if you need to fine tune your production levels, you can set an employment capacity limit.",
 
@@ -152,7 +152,7 @@
 
             "colonist-rendering-desc":  "Set the maximum number of colonists you will allow the game to render at one time.  The larger the count, the larger the performance impact.",
 
-            "pub2-description":         "升級版的 酒吧(Pub) 除了能服務更多人和提供飲料之外，還提供優質的食物跟你各位最愛的WiFi!",
+            "pub2-description":         "升級版的大酒吧(Pub)除了能服務更多人和提供飲料之外，還提供優質的食物跟你各位最愛的WiFi!",
 
             "nanotech-desc":            "Once you're done building giant things, grab your microscope and do a complete 180 by building things as tiny as possible using Advanced Nanotechnology!",
 
@@ -243,5 +243,28 @@
             "gen-def-race":             "隸屬種族",
 
             "gen-assoc-files":          "有關聯的檔案"
+
+            "srteleporter-description": "A small transporter unit rated safe for Reptilian travel, allowing quick travel between cities in a region.",
+            "storage-full":             "Storage Full",
+                        
+            "ambulance-description":    "Boldly transport sick and injured colonists to a medical facility.",
+                        
+            "squadcar-description":     "Where city security forces haul your citizens off, never to be seen or heard from again.",
+                        
+            "subterraneantransit-description":"Connect to a vast underground network linking regional cities together and joining their workforces and economies.",
+                        
+            "select-charter":           "Select Charter",
+                        
+            "share-uri":                "Join url:",
+                        
+            "share-uri-format":         "web+mycolony://join_#charterid",
+                        
+            "foodreplicator-description":"This machine will process almost all inedibles into delicious food for many. While your people will never know is what their meals are made of...",
+                        
+            "warfactory-description":   "Reptilians are well known throughout the galaxy as merchants of death, partly due to their advanced war factory sweatshops, where hundreds of low skilled civilians work around the clock making bombs and other weapons.",
+                        
+            "colony_offline":           "Colony Offline",
+                        
+            "colony_offline_notice":    "The selected colony is currently offline.  You can only gift resources to an online colony.  Please wait until the player has come online and try again."
 
         },
