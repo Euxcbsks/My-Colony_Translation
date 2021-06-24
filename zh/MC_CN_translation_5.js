@@ -466,15 +466,9 @@
 
             "regobug-description":      "一隻愛挖灰壤，很幫得上忙的灰土蟲。",
 
-            "regolithincinerator-description":"
+            "regolithincinerator-description":"將糖加入灰壤，並在灰土焚燒爐高温加熱後，能夠將灰壤降解為原礦。",
 
-Use Sugar to heat up Regolith to such a high degree that it breaks down into raw Ore.",
-
-            "potofether-description":   "
-
-From childhood, young Insectoids hear tales of the magical Pot of Ether at the end of the rainbow.  Those are just fairy 
-
-tales, but you can build your own Pot of Ether with a bit of Gold and some Ore and Regolith!",
+            "potofether-description":   "年輕的蟲族在童年總會聽過有關彩虹盡頭有一個魔法乙太鍋的故事。雖然只是童話故事，但只要有一些礦物、黃金與灰壤，也能造一個出來哦！",
 
             "etherbug-description":     "乙太蟲(Etherbug)是世界上唯一一種不會因進食乙太而即時死亡的蟲族。因此，這家伙從此以後就被強迫冒著生命危險為殖民地收集乙太......"
 
